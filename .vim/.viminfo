@@ -1,0 +1,70 @@
+# この viminfo ファイルは Vim 8.2 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1623754381,,"wq"
+:q
+|2,0,1623742851,,"q"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+
+# ファイルマーク:
+'0  9  10  ~/.dotfiles/install.sh
+|4,48,9,10,1623754381,"~/.dotfiles/install.sh"
+'1  1  0  ~/.dotfiles/.vim/.vimrc
+|4,49,1,0,1623745324,"~/.dotfiles/.vim/.vimrc"
+'2  1  0  ~/.ssh/id_rsa.pub
+|4,50,1,0,1623742851,"~/.ssh/id_rsa.pub"
+
+# ジャンプリスト (新しいものが先):
+-'  9  10  ~/.dotfiles/install.sh
+|4,39,9,10,1623754381,"~/.dotfiles/install.sh"
+-'  1  0  ~/.dotfiles/install.sh
+|4,39,1,0,1623745451,"~/.dotfiles/install.sh"
+-'  1  0  ~/.dotfiles/.vim/.vimrc
+|4,39,1,0,1623745324,"~/.dotfiles/.vim/.vimrc"
+-'  1  0  ~/.dotfiles/.vim/.vimrc
+|4,39,1,0,1623745324,"~/.dotfiles/.vim/.vimrc"
+-'  1  0  ~/.ssh/id_rsa.pub
+|4,39,1,0,1623742851,"~/.ssh/id_rsa.pub"
+-'  1  0  ~/.ssh/id_rsa.pub
+|4,39,1,0,1623742851,"~/.ssh/id_rsa.pub"
+-'  1  0  ~/.ssh/id_rsa.pub
+|4,39,1,0,1623742851,"~/.ssh/id_rsa.pub"
+-'  1  0  ~/.ssh/id_rsa.pub
+|4,39,1,0,1623742851,"~/.ssh/id_rsa.pub"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/.dotfiles/install.sh
+	*	1623754378	0
+	"	9	10
+	^	9	11
+	.	19	3
+	+	19	3
+
+> ~/.dotfiles/.vim/.vimrc
+	*	1623745322	0
+	"	1	0
+
+> ~/.ssh/id_rsa.pub
+	*	1623742850	0
+	"	1	0
